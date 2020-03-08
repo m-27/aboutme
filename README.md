@@ -13,36 +13,37 @@
 # ezTravel 易遊網_易遊網股份有限公司- 前端工程師 2016 / 10 - 2020 / 2
 
 * 易遊網國外旅遊線別
- * 搜尋引擎維護及優化提升頁面效能
- * 解決跨平台、跨瀏覽器問題
- * 將系統進行完整測試，並修正其bug
- * 開放使用關鍵字搜尋
+ - 搜尋引擎維護及優化提升頁面效能
+ - 解決跨平台、跨瀏覽器問題
+ - 將系統進行完整測試，並修正其bug
+ - 開放使用關鍵字搜尋
  * **Technologies: Scala、Javascript、React、Typescript、Less**
 
+
 * 供應商上架平台(PBO)
- * 使用React前端框架開發，並大量使用ES6語法以及Redux進行開發
- * 與後端工程師合作，API串接，並處理回傳資料以完整呈現
- * 將重複性的頁面以Component搭配Typescript撰寫達到動態整合的效果，加強產品的可維護性與開發效率。
- * 自行撰寫所有驗證功能，包括日期、天數、單選多選，使系統更加穩定完整
- * ** Technologies: React+Redux、Node.js、Typescript、Less**
+ - 使用React前端框架開發，並大量使用ES6語法以及Redux進行開發
+ - 與後端工程師合作，API串接，並處理回傳資料以完整呈現
+ - 將重複性的頁面以Component搭配Typescript撰寫達到動態整合的效果，加強產品的可維護性與開發效率。
+ - 自行撰寫所有驗證功能，包括日期、天數、單選多選，使系統更加穩定完整
+ - **Technologies: React+Redux、Node.js、Typescript、Less**
 
 * 定制旅遊
- * 使用React前端框架開發
- * 與後端工程師合作，API串接，並處理回傳資料以完整呈現
- * 各個載具上的觀看體驗一致
- * 自行撰寫所有驗證功能，包括日期、天數、單選多選，使系統更加穩定完整
- * ** Technologies: React、Typescript、Less**
+ - 使用React前端框架開發
+ - 與後端工程師合作，API串接，並處理回傳資料以完整呈現
+ - 各個載具上的觀看體驗一致
+ - 自行撰寫所有驗證功能，包括日期、天數、單選多選，使系統更加穩定完整
+ - **Technologies: React、Typescript、Less**
 
 * 線上客服單
- * 前端程式維護及開發
- * 欄位檢核
- * ** Technologies: Scala、React、Typescript、Less**
+ - 前端程式維護及開發
+ - 欄位檢核
+ - **Technologies: Scala、React、Typescript、Less**
 
 * 活動頁
- * 使用Scala、React開發
- * 優化頁面提升效能
- * 解決跨平台、跨瀏覽器問題
- * ** Technologies: React、Typescript、Less**
+ - 使用Scala、React開發
+ - 優化頁面提升效能
+ - 解決跨平台、跨瀏覽器問題
+ - **Technologies: React、Typescript、Less**
 
 # 芯創資訊股份有限公司 - 網頁設計師 2014 / 10 - 2015 / 10
 
@@ -84,3 +85,4 @@
  
  
 
+# aboutme
