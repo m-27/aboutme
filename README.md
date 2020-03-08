@@ -59,26 +59,26 @@
 
 ## LATEST WORKS
 
-**供應商上架平台(PBO)** [前往作品](https://wikipedia.org)
+**供應商上架平台(PBO)** [前往作品](www.ezvendor.net/ezfrnpbo)
 
 >提供平台讓供應商建立團型、行程資料、航班及售價後上傳上架
 
 ![PBO](https://i.imgur.com/nHBc3cd.jpg)
 
-**線上客服單** [前往作品](https://wikipedia.org)
-> 提供客人僅填入個資完畢即可成立訂單之服務
 
-![線上客服單](https://imgur.com/YU7h2Q8.jpg)
-
-
-**定制旅遊** [前往作品](https://wikipedia.org)
+**定制旅遊** [前往作品](https://vacation.eztravel.com.tw/pkgfrn/miceForm)
 >客製專屬行程、自組一團/員工旅遊/獎勵旅遊/家族旅遊
 
 ![定制旅遊](https://imgur.com/fdHlvaZ.jpg)
 
 
- 
- **活動頁** [前往作品](https://wikipedia.org)
+**線上客服單** 
+> 提供客人僅填入個資完畢即可成立訂單之服務
+
+![線上客服單](https://imgur.com/YU7h2Q8.jpg)
+
+
+ **活動頁** [前往作品](https://vacation.eztravel.com.tw/pkgfrn/campaign/CN00000011)
 > 一般搜尋及關鍵字搜尋之整合頁
 
 ![活動頁](https://imgur.com/hTlH1bS.jpg)
