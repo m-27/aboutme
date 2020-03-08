@@ -59,7 +59,7 @@
 
 ## LATEST WORKS
 
-**供應商上架平台(PBO)** [前往作品](www.ezvendor.net/ezfrnpbo)
+**供應商上架平台(PBO)** [前往作品](https://www.ezvendor.net/ezfrnpbo)
 
 >提供平台讓供應商建立團型、行程資料、航班及售價後上傳上架
 
